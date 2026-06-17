@@ -1,4 +1,4 @@
-# Veloria Tech ML Intern Assignment
+
 
 **Name : Kushal Kamlikar**
 
